@@ -1,12 +1,12 @@
 # TeamGreenTech
 UCB DATA  - team project 1
 
-1) Project Title: Solar Adoption Analysis for New York State Between 2000 and 2017. 
+1) Project Title: Solar Adoption Analysis for New York State Between 2000 and 2017 
 
 2) Team Members: Dipesh, Josh, Aubrey, Vish
 
 3) Project Description/ Outline: 
-To conduct an analysis on solar energy projects w/in New York to determine (1) how solar adoption has evolved over time, (2) how the associated costs have changed, (3) what the relationship is between several socio-economic (SEC) factors and solar penetration within various zipcodes, (4) whether or not these solar adoption changes are correlated w/ the introduction of finacial innovations and (5) a sentiment analysis re: how social media users feel about the top 10 solar panel contractors in NY. 
+To conduct an analysis on solar energy projects w/in New York to determine (1) how solar adoption--and its' associated costs--have evolved over time, (2) what the relationship is between several socio-economic (SEC) factors and solar penetration within various zipcodes, (3) whether or not solar adoption changes are correlated w/ the introduction of finacial innovations and (4) a sentiment analysis re: how social media users feel about the top 10 solar panel contractors in NY. 
 
 4) Reserach Questions to Answer:
 - How has the penetration of solar energy evolved over time (display this as a heat map) for residential, non-residential, and utility scale solar energy projects?
