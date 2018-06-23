@@ -37,31 +37,33 @@ Solar Data
   5		Identify the top 10 solar installer in NY	
   
 Census Data	Read census documentation	
-	7		Read in relevant variables for NY zip code	
-	8		store zip level dataset	
+Read in relevant variables for NY zip code	
+store zip level dataset	
   
 Prepare zip-code level shape files	
 
 Twitter Data collection	Read in 500 tweets each for each of the top 10 installers in NY	
-	11		Filter data (if needed - e.g. avoid tweets by installer)	
-	12		Perform sentiment analysis	
+-Filter data (if needed - e.g. avoid tweets by installer)	
+-Perform sentiment analysis	
 Address research questions	
-  13    What is the penetration of solar (the S-curve) and is it still growing? Does it vary for residential rooftop, non-residential rooftop, and solar farms?	2
-	14		How does it vary by location (kw per 10,000)? Is it concentrated in specific locations?	3, 9
-	15		How have the costs of solar changed over time? with and without incentives?	2
-	16		Did solar adoption change with the introduction of financial innovations (lease/ppa versus own)	2
-	17		How are income levels related to solar penetration?	4, 8
-	18		How are home ownership rates related to solar penetration (and income levels)?	4,8
-	19		How do NY twitter users feel about the top solar installer in NY?	12
+-What is the penetration of solar (the S-curve) and is it still growing? Does it vary for residential rooftop, non-residential rooftop, and solar farms?
+- How does it vary by location (kw per 10,000)? Is it concentrated in specific locations?	
+- How have the costs of solar changed over time? with and without incentives?	
+- Did solar adoption change with the introduction of financial innovations (lease/ppa versus own)	
+- How are income levels related to solar penetration?	
+- How are home ownership rates related to solar penetration (and income levels)?	
+- How do NY twitter users feel about the top solar installer in NY?	
 
-Quality checks on code	Swap code and review			
-Merge code			
+Quality checks on code	
+>>Swap code and review			
+>>Merge code			
 
-Prepare presentation	Intro	2
-	26		Key research questions	2
-	27		Data sources	2
-	28		Results	2
-	29		Additional research	2
+Prepare presentation	
+>>Intro	2
+>>Key research questions	
+>>Data sources	2
+>>Results	2
+>>Additional research	2
 
 Practice presentation		
 
