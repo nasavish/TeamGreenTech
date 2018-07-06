@@ -15,8 +15,8 @@ UCB DATA  - team project 1
 4. Merge Data
     1. merge_project_data.py
     
-3. Final Data File
-    2. Resources/project_data_final.csv
+5. Final Data File
+    1. Resources/project_data_final.csv
     
     
 ### Analysis and Visualization
